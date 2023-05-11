@@ -1,0 +1,6 @@
+Basic website :
+1) One header - logo , name , mild background.
+2) Image or video representation.
+3) Address with map and contact details.
+
+Suitable for service related industries and where charges are fixed or negotiable;
